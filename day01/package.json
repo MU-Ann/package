@@ -1,0 +1,33 @@
+{
+    "name":"jiadingtong",
+    "version":"0.0.1",
+    "author":"贾丁桐",
+    "description":"第一个node.js程序",
+    "keywrods":["node.js","javascript"],
+    "repository":{
+        "type":"git",
+        "url":""
+    },
+    "license":"NIT",
+    "engines":{
+        "node":"10.12.0"
+    },
+    "bugs":{
+        "url":"http://path/to/bug",
+        "email":"bug@example.com"
+    },
+    "contributors":[{
+        "name":"华晨宇",
+        "email":"897556954@qq.com"
+    }],
+    "scripts":{
+        "start":"node index.js"
+    },
+    "dependencies":{
+
+    },
+    "devDenpendencies":{
+        
+    }
+
+}
